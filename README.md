@@ -33,7 +33,7 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/EnzoGabrielBarbosaFranco/Snake/blob/main/SnakeCode.svg)
+  ![ Snake animation ](https://github.com/EnzoGabrielBarbosaFranco/Snake/blob/main/SnakeCode.svg)
   
 </div>
 
