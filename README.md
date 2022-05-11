@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi, Eu sou o <a href="https://www.linkedin.com/in/enzo-gabriel-894273237/"><i>Enzo Gabriel</i></a> 🐱‍💻  👨‍💻</h1>
+  <h1 align="center">Oi, eu sou o <a href="https://www.linkedin.com/in/enzo-gabriel-894273237/"><i>Enzo Gabriel Barbosa Franco</i></a> 🐱‍💻  👨‍💻  !!! </h1>
   <p align="center">Estudo Desenvolvimento Web e Programação!!! </p>
 </div>
 
@@ -32,7 +32,7 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/EnzoGabrielBarbosaFranco/Snake/blob/main/SnakeCode.svg)
   
 </div>
 
