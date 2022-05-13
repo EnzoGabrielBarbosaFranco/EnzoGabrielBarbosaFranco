@@ -35,16 +35,20 @@
   
 </div>
 
+<br>
+<br>
+
 ### 📈 GitHub Activity Graph:
 [![EnzoGabrielBarbosaFranco github activity graph](https://activity-graph.herokuapp.com/graph?username=EnzoGabrielBarbosaFranco&theme=react-dark)](https://github.com/EnzoGabrielBarbosaFranco/github-readme-activity-graph)
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EnzoGabrielBarbosaFranco"></img>
 
 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
+<br>
+<br>
 ## Github Analytics
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=EnzoGabrielBarbosaFranco&no-bg=true&no-frame=true&theme=onedark&column=7" />
