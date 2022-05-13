@@ -39,3 +39,13 @@
   <p>Feito com :heart: e JavaScript.</p>
   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
+
+### 📈 GitHub Activity Graph:
+[![EnzoGabrielBarbosaFranco github activity graph](https://activity-graph.herokuapp.com/graph?username=EnzoGabrielBarbosaFranco&theme=react-dark)](https://github.com/EnzoGabrielBarbosaFranco/github-readme-activity-graph)
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EnzoGabrielBarbosaFranco"></img>
+
+
+
+![](./profile-3d-contrib/profile-green-animate.svg)
