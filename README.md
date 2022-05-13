@@ -35,11 +35,6 @@
   
 </div>
 
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
-
 ### 📈 GitHub Activity Graph:
 [![EnzoGabrielBarbosaFranco github activity graph](https://activity-graph.herokuapp.com/graph?username=EnzoGabrielBarbosaFranco&theme=react-dark)](https://github.com/EnzoGabrielBarbosaFranco/github-readme-activity-graph)
 
@@ -54,4 +49,8 @@
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=EnzoGabrielBarbosaFranco&no-bg=true&no-frame=true&theme=onedark&column=7" />
 <!--    &rank=SSS,SS,S,AAA,AA,A,B,C -->
+</p>
+
+<p align="center">
+ <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"><img      src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" style="max-width: 100%;"></a>
 </p>
