@@ -49,7 +49,8 @@
 
 <br>
 <br>
-## Github Analytics
+
+🎯 Github Analytics:
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=EnzoGabrielBarbosaFranco&no-bg=true&no-frame=true&theme=onedark&column=7" />
 <!--    &rank=SSS,SS,S,AAA,AA,A,B,C -->
