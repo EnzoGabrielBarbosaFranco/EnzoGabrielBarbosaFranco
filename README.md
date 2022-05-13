@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi, eu sou o <a href="https://www.linkedin.com/in/enzo-gabriel-894273237/"><i> <strong> Enzo </strong> </i></a> 🐱‍💻  👨‍💻  ☕ ! </h1>
-  <p align="center">Vem com o Monstro </p>
+  <p align="center"> <i> <strong> Vem com o Monstro </strong> </i> </p>
 </div>
 
 <div align="center">
