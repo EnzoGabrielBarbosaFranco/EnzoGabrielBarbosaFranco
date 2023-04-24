@@ -31,13 +31,6 @@
 <br>
 <br>
 
-### 📈 GitHub Activity Graph:
-[![EnzoGabrielBarbosaFranco github activity graph](https://activity-graph.herokuapp.com/graph?username=EnzoGabrielBarbosaFranco&theme=react-dark)](https://github.com/EnzoGabrielBarbosaFranco/github-readme-activity-graph)
-
-
-
-
-
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <br>
