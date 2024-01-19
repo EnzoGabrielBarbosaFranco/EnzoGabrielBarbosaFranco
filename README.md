@@ -32,7 +32,12 @@
   <a href="https://www.instagram.com/enzow._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://discord.gg/uaSQTPRveW" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/enzo-gabriel-894273237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:enzo.gbf@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="chave_pix_ou_qr_code_aqui">
+  <img src="https://img.shields.io/badge/-Pix-%234CAF50?style=for-the-badge&logo=dollar-sign&logoColor=white" alt="Pix" target="_blank">
+</a>
+
+
+
 </div>
 <div align="center">
   
