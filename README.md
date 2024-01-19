@@ -32,7 +32,7 @@
   <a href="https://www.instagram.com/enzow._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://discord.gg/uaSQTPRveW" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/enzo-gabriel-894273237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="chave_pix_ou_qr_code_aqui">
+<a href="https://nubank.com.br/cobrar/ycbc6/65aa8800-7088-47a9-abea-e285b8c4d95e">
   <img src="https://img.shields.io/badge/-Pix-%234CAF50?style=for-the-badge&logo=dollar-sign&logoColor=white" alt="Pix" target="_blank">
 </a>
 
