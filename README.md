@@ -45,20 +45,3 @@
   ![Snake animation](https://github.com/EnzoGabrielBarbosaFranco/Snake/blob/main/SnakeCode.svg)
   
 </div>
-
-<br>
-<br>
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-
-
-🎯 Github Analytics:
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=EnzoGabrielBarbosaFranco&no-bg=true&no-frame=true&theme=onedark&column=7" />
-<!--    &rank=SSS,SS,S,AAA,AA,A,B,C -->
-</p>
-
-<p align="center">
- <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"><img      src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" style="max-width: 100%;"></a>
-</p>
