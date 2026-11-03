@@ -1,13 +1,6 @@
 <div>
-  <h1 align="center">Oi, eu sou o <a href="https://www.linkedin.com/in/enzo-gabriel-894273237/"><i> <strong> Enzo </strong> </i></a> 👨‍💻☕ ! </h1>
+  <h1 align="center">Oi, eu sou o <strong> Enzo </strong> 👨‍💻☕ ! </h1>
   <br>
-</div>
-
-<div align="center">
-  <a href="https://github.com/EnzoGabrielBarbosaFranco">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EnzoGabrielBarbosaFranco&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGabrielBarbosaFranco&theme=radical&hide_border=false&&layout=compact"/>
-  </a>
 </div>
 
 <div align="center" valign="top"><br>
